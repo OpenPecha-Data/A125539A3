@@ -1,0 +1,34 @@
+segment_sources:
+  P196D6694:
+    type: origin_type
+    relation: translation
+    language: en
+  PCC9E8EE9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fb67d98389fb4e8b9e50141195898ca6:
+    P196D6694: 660d022d0c444fce9113b9b695d33c9d
+    PCC9E8EE9: 8160f35436b34e6d923a9c86ca707c5b
+  0d48f37d1fc14aabb3636291025e5211:
+    P196D6694: 64a26e2429d14cdb8fca2cae224ef2be
+    PCC9E8EE9: 632589d8e28a424389de14ea648dc4f1
+  2398dae1a1a14cc8882e0672d1c17c3f:
+    P196D6694: cf5cc01782d74a69b6dd4fd236533157
+    PCC9E8EE9: 0e49a2371fd24385845cd2f8c0faf622
+  5d74e074341d4192871c448b9753724b:
+    P196D6694: 17307b7226ea4c1c9f7a69c37565da40
+    PCC9E8EE9: c4551f51e92f4a25b9d16457e22d76d3
+  a0f25497ad5b4355aab49d06cff77043:
+    P196D6694: 80d144fca5bb4a5fa2fd5143d9ae2131
+    PCC9E8EE9: b8c96a54d9644c8da89387b3b0b67d0c
+  4bd2b9deac454210838ddda7e71bceba:
+    P196D6694: 69bb0cb4299b4fd7bd4ad5af0d06c8cb
+    PCC9E8EE9: 7cb25fec7d8740ca9e90f697f2e3e774
+  1524396d2b3b45d5a6a3a43c81790755:
+    P196D6694: c433a2123f3a4a609e66bda9f681548b
+    PCC9E8EE9: dd7bf870068f4bd3b9ee473fd85371de
+  97a8a36ad6c14fa1afcddffc6dd21275:
+    P196D6694: d81d8f0f84cd451a8577c7690da88d57
+    PCC9E8EE9: d49bc9c1daac400a9a3a62c52a8affbe
